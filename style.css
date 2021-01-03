@@ -1,0 +1,34 @@
+body{
+    background:stretch;
+    font-family: 'Special Elite', cursive;
+    }
+    
+    .div_music{
+    float:center;
+    }
+    
+    .div_music_img{
+    width:200px;
+    border-radius:100px;
+    }
+    
+    #music{
+    font-size:18px;
+    margin: 15px;
+    }
+    
+    .heading{
+    font-size: 18px;
+    width:100%;
+    margin:0px;
+    }
+    
+    .note{
+    font-size: 16px;
+    color:black;
+    }
+
+    .play_button{
+        font-size:18px;
+        box-shadow:5px 5px 5px white;
+        }
